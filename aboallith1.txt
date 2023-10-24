@@ -1,1 +1,1 @@
-{'ver1':'65', 'ver2':'0', 'ver3':' \n•تم حل جميع المشاكل ان شاء الله\n•All problems have been solved hopefully\n' , 'dli':'https://t.co/1cC4Pk2i4H', 'exp925':'1', 'exp935':'107777', 'exp929':'150', 'exp930':'107'}
+{'ver1':'65', 'ver2':'0', 'ver3':' \n•تم حل جميع المشاكل ان شاء الله\n•All problems have been solved hopefully\n•اذا لم تقوم بالتحديث خلال ثلاث ايام القادمة سنفرض عليك تحديث اجباري\n•If you do not update within the next three days, we will force you to update\n' , 'dli':'https://t.co/1cC4Pk2i4H', 'exp925':'1', 'exp935':'107777', 'exp929':'150', 'exp930':'107'}
